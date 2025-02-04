@@ -11,4 +11,4 @@ Les 32 trous en extrême périférie du DISC sont réservés à la synchro ce so
 Les  autres trous en spirale (fonction NIPKOW) sont excentrés de 119mm pour le plus éloigné, ce sont des vias traversants diamètre 2mm pércés à 0.8mm ce sont bien sur des trous métallisés.
 
 HYPER IMPORTANT :
-Il sagit d'un PCB double face avec un plan de masee de chaque côté et j'ai choisi la couleur noire, tout ceci pour participer à la meilleure opacité possible du disque
+Il sagit d'un PCB double face avec un plan de masse de chaque côté et j'ai choisi la couleur noire, tout ceci pour participer à la meilleure opacité possible du disque
